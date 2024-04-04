@@ -1,0 +1,33 @@
+# Dependências
+node_modules/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de saída de compilação
+/dist
+
+# Variáveis de ambiente
+.env
+.env.test
+
+# Sistema de arquivos do MacOS
+.DS_Store
+
+# Sistema de arquivos do Windows
+Thumbs.db
+
+# Arquivos de editor
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*~
+*.lock
